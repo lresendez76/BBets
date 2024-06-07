@@ -52,7 +52,8 @@ for (i in 1:100) { bank[i] = BrLw(35, 2, 637)
 print(mean(bank))
 hist(bank)
 ```
-average profit = $400
+
+average profit = $28 per class
 
 
 
