@@ -101,4 +101,4 @@ print(lci)
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-28 people in class then the 2:1 bet is about fair.
+28 people in class 2:1 bet is about fair.
